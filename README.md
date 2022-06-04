@@ -3,11 +3,11 @@
 
 <img src="assets/banner.png">
 
-Hi guys, I'm **Elvira Firmansyah**. I am a **Web developer** & **UI/UX Designer** from Indonesia. I'm currently freelancer as a UI/UX Designer.  Check it out my    <a href="https://elvira.elvinaf.xyz/">**site**</a>
+Hi guys, I'm **Elvira Firmansyah**. I am a **Web developer** & **UI/UX Designer** from Indonesia. I'm currently freelancer as a **UI/UX Designer.  Check it out my    <a href="https://elvira.elvinaf.xyz/">**site**</a>
 
-### 🔨 I'm currently working on
+### 🔨 I'm currently 
 ```text
-my personal site
+working on my personal site
 ```
 Contact me if you have same interesting or some questions!
 
