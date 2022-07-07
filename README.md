@@ -3,7 +3,7 @@
 
 <img src="assets/banner.png">
 
-Hello, I'm **Elvira Firmansyah**. I am a **Web developer** & **UI/UX Designer** from Indonesia. I'm currently freelancer as a **UI/UX Designer**.  Check it out my    <a href="https://elvira.elvinaf.xyz/">**site**</a>
+Hello, I'm **Elvira Firmansyah**. I am a **Web developer** & **UI/UX Designer** from Indonesia. I'm currently freelancer as a **UI/UX Designer**.  Check it out my    <a href="https://elvira.vercel.app">**site**</a>
 
 ### 🔨 I'm currently 
 ```text
