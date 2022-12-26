@@ -7,7 +7,7 @@ Hello, I'm **Elvira Firmansyah**. I am a **Web developer** & **UI/UX Designer** 
 
 ### 🔨 I'm currently 
 ```text
-working on my personal site
+working on my personal project
 ```
 Contact me if you have same interesting or some questions!
 
