@@ -42,8 +42,7 @@ Contact me if you have same interesting or some questions!
 <a href="https://www.buymeacoffee.com/elvira"><img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
  
-## 💻 Open Source Work Stats
+<!-- ## 💻 Open Source Work Stats
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elvirafimansyah&show_icons=true&theme=gotham" alt="elvirafimansyah" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elvirafimansyah&show_icons=true&theme=gotham" alt="elvirafimansyah" /> -->
