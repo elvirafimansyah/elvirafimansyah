@@ -1,6 +1,6 @@
 ## 👋 Hi There, I'm Elvira 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) [![GitHub followers](https://img.shields.io/github/followers/elvirafimansyah?label=Follow&style=social)](https://github.com/elvirafimansyah/?tab=follow) 
-<img src="assets/banner.png">
+<img src="assets/bannerupd.png">
 
 Hello, I'm **Elvira Firmansyah**. I am a **Web developer** & **UI/UX Designer** from Indonesia. I'm currently freelancer as a **UI/UX Designer**.  Check it out my    <a href="https://elvira.vercel.app">**site**</a>
 
