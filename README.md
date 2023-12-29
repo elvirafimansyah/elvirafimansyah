@@ -12,7 +12,7 @@ const about_me = () => {
   }
 
   return (
-    <p>{`Hello, I'm ${profile.name}. I am a Web developer & UI/UX Designer from ${profile.nationality}. Check it out my ${profile.site}`}</p>
+    <p>{`Hello, I'm ${profile.name}. I am a Web developer & UI/UX Designer from ${profile.nation}. Check it out my ${profile.site}`}</p>
   )
 }
 
