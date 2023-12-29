@@ -7,7 +7,7 @@ const about_me = () => {
   const profile = {
     name: "Elvira Firmansyah",
     pronouns: "she" | "her",
-    nationality: "Indonesia",
+    nation: "Indonesia",
     site: "https://elvira.vercel.app"
   }
 
