@@ -1,5 +1,5 @@
 ##  Hi👋 I'm Elvira 
-<img src="assets/banner.png">
+<img src="assets/bannerold.png">
 
 ```javascript
 const about_me = () => {
